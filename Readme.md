@@ -1,4 +1,4 @@
-﻿This mod was created by [Elorin's Cursed Remains](https://github.com/Sepultaris)
+﻿This mod was created by [Elorin's Cursed Remains](https://github.com/Sepultaris).
 
 This mod adds some admin commands for creating mirra of any type and purity.
 
