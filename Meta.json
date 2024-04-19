@@ -1,0 +1,10 @@
+{
+    "Name": "ValHeelMirraCommands",
+    "Author": "Sepultaris",
+    "Description": "This mod adds a commands to generate any mirra at any purity level.",
+    "Version": "0.03",
+    "Enabled": true,
+    "HotReload": true,
+    "RegisterCommands": true,
+    "ACEVersion": "1.1.0"
+}
